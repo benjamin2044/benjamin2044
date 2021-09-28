@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benjamin2044
+- 👋 Hi, I’m Barun.
 - 👀 I’m interested in embedded software & hardware design (ARM Core).
 - 🌱 I’m currently learning emdedded linux and C++.
 - 💞️ I’m looking to collaborate on drone networking projects and building custom embedded linux boards.

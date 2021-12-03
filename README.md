@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Barun.
-- 👀 I’m interested in embedded software & hardware design (ARM Core).
-- 🌱 I’m currently learning emdedded linux and C++.
-- 💞️ I’m looking to collaborate on drone networking projects and building custom embedded linux boards.
+- 👀 I’m interested in embedded software & hardware design.
+- 🌱 I’m currently learning about developing and implementing Machine Learning applications for drones.
+- 💞️ I’m looking to collaborate on drone networking projects.
 - 📫 Reach me at barunbasnet1@gmail.com
 
 <!---

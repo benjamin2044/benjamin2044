@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Barun.
-- 👀 I’m interested in embedded software & hardware design.
-- 🌱 I’m currently learning about developing and implementing Machine Learning applications for drones.
-- 💞️ I’m looking to collaborate on drone networking projects.
+- 👀 I’m interested in embedded software & hardware development.
 - 📫 Reach me at barunbasnet1@gmail.com
 
 <!---
